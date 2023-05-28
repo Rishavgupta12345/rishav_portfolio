@@ -217,7 +217,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Rishavgupta12345/plastick",
     },
     {
       name: "Portfolio Website",
@@ -238,7 +238,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Rishavgupta12345/rishav_portfolio",
     },
     {
       name: "Minesweeper",
@@ -259,7 +259,7 @@ import {
         // },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Rishavgupta12345/minesweeper",
     },
   ];
   
